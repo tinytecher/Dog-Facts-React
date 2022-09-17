@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.app {
+	background-color: rgb(58, 171, 177);
+	text-align: center;
+	margin: 60px auto;
+	max-width: 80vw;
+}
+
+.app-header {
+	color: rgb(56, 89, 97);
+	font-size: 32px;
+	padding-top: 60px;
+}
+
+.app-p {
+	color: white;
+	min-height: 15vh;
+	font-size: 24px;
+	padding: 20px;
+}
+
+.app-button {
+	background-color: rgb(76, 123, 135);
+	color: white;
+	width: 100px;
+	height: 36px;
+	border: 1px solid rgb(12, 11, 11);
+	font-size: 17px;
+	border-radius: 10%;
+	margin-top: 20px;
+}
