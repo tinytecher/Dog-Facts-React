@@ -2,7 +2,7 @@
 
 Using React and Lottie animations to fetch dog facts from API.
 
-<img width="774" height="474" alt="Screenshot 2022-10-23 at 01 41 49" src="https://user-images.githubusercontent.com/79761202/197367733-f72edcfd-4c63-4fec-857b-7d8ec648ac35.png">
+<img width="474" height="274" alt="Screenshot 2022-10-23 at 01 41 49" src="https://user-images.githubusercontent.com/79761202/197367733-f72edcfd-4c63-4fec-857b-7d8ec648ac35.png">
 
 # Project: Dog Facts App with Lottie Animations
 
