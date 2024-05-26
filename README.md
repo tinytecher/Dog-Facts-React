@@ -8,6 +8,10 @@ Using React and Lottie animations to fetch dog facts from API.
 
 This project is a Dog Facts app built using React.js and Lottie animations. The app displays interesting facts about dogs and features a fun animation using Lottie to enhance the user experience.
 
+## Deployment
+https://react-dog-facts.netlify.app/
+
+
 ## Key Learnings
 
 Throughout the development of this project, I gained valuable insights into several key areas:
